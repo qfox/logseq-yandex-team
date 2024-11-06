@@ -124,3 +124,4 @@ Contributions to the Logseq-JIRA plugin are welcome. If you would like to contri
 ## License
 
 The Logseq-JIRA plugin is open-source software licensed under the [MIT License](LICENSE).
+qwe
